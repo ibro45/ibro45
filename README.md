@@ -12,16 +12,19 @@
 </p>
 
 🔬 Research Scholar at [Artificial Intelligence in Medicine](https://aim.hms.harvard.edu/) lab at Harvard Medical School and Mass General Brigham
+
 🎓 PhD Candidate at [Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-health-medicine-and-life-sciences-0)
 > *A machine learning engineer passionate about solving problems and creating impact in interdisciplinary fields. An adventurer by nature, thriving when challenged  intellectually at multiple fronts. My outstanding social skills, especially the combination of empathy and forthrightness,  make me a great communicator and team worker.*
 
 ####  I currently work on:
 - 🩻 Leveraging large unannotated **medical imaging** datasets through **self-supervised learning**
 - 🫀 Biomarker discovery through heart substructure **segmentation**
-- **[ibro45/lighter](https://github.com/ibro45/lighter)** - YAML-based automated rapid prototyping framework for ML experiments
+- 🎚️ **[ibro45/lighter](https://github.com/ibro45/lighter)** - YAML-based automated rapid prototyping framework for ML experiments
 
 #### My previous work:
 - 🌆➡🌃 **GAN image-to-image translation** for adaptive radiotherapy through **CBCT-to-CT translation**. My team and I developed **[ganslate-team/ganslate](https://github.com/ganslate-team/ganslate) framework** to allow us for easier prototyping, extensibility, and experiment tracking of our image-to-image translation projects.
+
 - 🎙️🇺🇸🇭🇷🇪🇸🇫🇷 **Speech-to-speech translation** on **spectrograms** [<img align="right" width="150" src="https://img.youtube.com/vi/RN3c_3j5m4U/3.jpg">](https://www.youtube.com/watch?v=RN3c_3j5m4U) using **recurrent convolutional networks**.  On the right is the **demo app** that allows a user to record a voice input and have it translated and spoken in English.
+
 - Various other personal or hackathon projects that can be found under my repositories.
 
