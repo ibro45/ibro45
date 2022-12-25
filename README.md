@@ -2,12 +2,19 @@
 ### Hey there, Ibro here 👋
 
 <p align="center">
+<a href="https://drive.google.com/file/d/1-M4SUlF0wWqGxd35uK-lma32OKjUC5Ue/view?usp=share_link" alt="Twitter"><img width="30px" src="icons/cv.png#gh-light-mode-only"></a>
+&nbsp; <a href="mailto: ihadzic@bwh.harvard.edu" alt="Twitter"><img width="30px" src="icons/email.png#gh-light-mode-only"></a>
+&nbsp; <a href="https://twitter.com/hadziibro" alt="Twitter"><img width="30px" src="icons/twitter.png#gh-light-mode-only"></a>
+&nbsp; <a href="https://www.linkedin.com/in/ibrhad/" alt="Twitter"><img width="30px" height="32px" src="icons/linkedin.png#gh-light-mode-only"></a>
+&nbsp; <a href="https://scholar.google.com/citations?user=ZwxiGQ0AAAAJ&hl=en" alt="Twitter"><img width="30px" src="icons/scholar.png#gh-light-mode-only"></a>
+
+<p align="center">
 <!-- Code copied from jayhernandez! ♥ -->
-<a href="https://drive.google.com/file/d/1-M4SUlF0wWqGxd35uK-lma32OKjUC5Ue/view?usp=share_link" alt="Twitter"><img width="30px" src="icons/cv.png"></a>
-&nbsp; <a href="mailto: ihadzic@bwh.harvard.edu" alt="Twitter"><img width="30px" src="icons/email.png"></a>
-&nbsp; <a href="https://twitter.com/hadziibro" alt="Twitter"><img width="30px" src="icons/twitter.png"></a>
-&nbsp; <a href="https://www.linkedin.com/in/ibrhad/" alt="Twitter"><img width="30px" height="32px" src="icons/linkedin.png"></a>
-&nbsp; <a href="https://scholar.google.com/citations?user=ZwxiGQ0AAAAJ&hl=en" alt="Twitter"><img width="30px" src="icons/scholar.png"></a>
+<a href="https://drive.google.com/file/d/1-M4SUlF0wWqGxd35uK-lma32OKjUC5Ue/view?usp=share_link" alt="Twitter"><img width="30px" src="icons/cv_inverted.png#gh-dark-mode-only"></a>
+&nbsp; <a href="mailto: ihadzic@bwh.harvard.edu" alt="Twitter"><img width="30px" src="icons/email_inverted.png#gh-dark-mode-only"></a>
+&nbsp; <a href="https://twitter.com/hadziibro" alt="Twitter"><img width="30px" src="icons/twitter_inverted.png#gh-dark-mode-only"></a>
+&nbsp; <a href="https://www.linkedin.com/in/ibrhad/" alt="Twitter"><img width="30px" height="32px" src="icons/linkedin_inverted.png#gh-dark-mode-only"></a>
+&nbsp; <a href="https://scholar.google.com/citations?user=ZwxiGQ0AAAAJ&hl=en" alt="Twitter"><img width="30px" src="icons/scholar_inverted.png#gh-dark-mode-only"></a>
 
 </p>
 
