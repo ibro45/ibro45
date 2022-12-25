@@ -1,22 +1,44 @@
 
 ### Hey there, Ibro here 👋
 
+<!-- START: Icon links to my profiles. Dark/light mode support. -->
 <p align="center">
-<a href="https://drive.google.com/file/d/1-M4SUlF0wWqGxd35uK-lma32OKjUC5Ue/view?usp=share_link" alt="Twitter"><img width="30px" src="icons/cv.png#gh-light-mode-only"></a>
-&nbsp; <a href="mailto: ihadzic@bwh.harvard.edu" alt="Twitter"><img width="30px" src="icons/email.png#gh-light-mode-only"></a>
-&nbsp; <a href="https://twitter.com/hadziibro" alt="Twitter"><img width="30px" src="icons/twitter.png#gh-light-mode-only"></a>
-&nbsp; <a href="https://www.linkedin.com/in/ibrhad/" alt="Twitter"><img width="30px" height="32px" src="icons/linkedin.png#gh-light-mode-only"></a>
-&nbsp; <a href="https://scholar.google.com/citations?user=ZwxiGQ0AAAAJ&hl=en" alt="Twitter"><img width="30px" src="icons/scholar.png#gh-light-mode-only"></a>
-
-<p align="center">
-<!-- Code copied from jayhernandez! ♥ -->
-<a href="https://drive.google.com/file/d/1-M4SUlF0wWqGxd35uK-lma32OKjUC5Ue/view?usp=share_link" alt="Twitter"><img width="30px" src="icons/cv_inverted.png#gh-dark-mode-only"></a>
-&nbsp; <a href="mailto: ihadzic@bwh.harvard.edu" alt="Twitter"><img width="30px" src="icons/email_inverted.png#gh-dark-mode-only"></a>
-&nbsp; <a href="https://twitter.com/hadziibro" alt="Twitter"><img width="30px" src="icons/twitter_inverted.png#gh-dark-mode-only"></a>
-&nbsp; <a href="https://www.linkedin.com/in/ibrhad/" alt="Twitter"><img width="30px" height="32px" src="icons/linkedin_inverted.png#gh-dark-mode-only"></a>
-&nbsp; <a href="https://scholar.google.com/citations?user=ZwxiGQ0AAAAJ&hl=en" alt="Twitter"><img width="30px" src="icons/scholar_inverted.png#gh-dark-mode-only"></a>
-
+  <a href="https://drive.google.com/file/d/1-M4SUlF0wWqGxd35uK-lma32OKjUC5Ue/view?usp=share_link" target="_blank" alt="CV">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="icons/cv_inverted.png" width="30px">
+      <img alt="CV" src="icons/cv.png" width="30px">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto: ihadzic@bwh.harvard.edu" target="_blank" alt="Email">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="icons/email_inverted.png" width="30px">
+      <img alt="Email" src="icons/email.png" width="30px">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/hadziibro" target="_blank" alt="Twitter">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="icons/twitter_inverted.png" width="30px">
+      <img alt="Twitter" src="icons/twitter.png" width="30px">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ibrhad/" target="_blank" alt="LinkedIn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="icons/linkedin_inverted.png" width="30px" height="32px">
+      <img alt="LinkedIn" src="icons/linkedin.png" width="30px" height="32px">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=ZwxiGQ0AAAAJ&hl=en" target="_blank" alt="Google Scholar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="icons/scholar_inverted.png" width="30px">
+      <img alt="Google Scholar" src="icons/scholar.png" width="30px">
+    </picture>
+  </a>
 </p>
+<!-- END: Icon links to my profiles. Dark/light mode support. -->
 
 🔬 Research Scholar at [Artificial Intelligence in Medicine](https://aim.hms.harvard.edu/) lab at Harvard Medical School and Mass General Brigham
 
