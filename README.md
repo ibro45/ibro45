@@ -53,7 +53,7 @@
 #### My previous work:
 - 🌆➡🌃 **GAN image-to-image translation** for adaptive radiotherapy through **CBCT-to-CT translation**. My team and I developed **[ganslate-team/ganslate](https://github.com/ganslate-team/ganslate) framework** to allow us for easier prototyping, extensibility, and experiment tracking of our image-to-image translation projects.
 
-- 🎙️🇺🇸🇭🇷🇪🇸🇫🇷 **Speech-to-speech translation** on **spectrograms** [<img align="right" width="150" src="https://img.youtube.com/vi/RN3c_3j5m4U/3.jpg">](https://www.youtube.com/watch?v=RN3c_3j5m4U) using **recurrent convolutional networks**.  On the right is the **demo app** that allows a user to record a voice input and have it translated and spoken in English.
+- 🎙️🇺🇸🇭🇷🇪🇸🇫🇷 **Speech-to-speech translation** [<img align="right" width="150" src="https://img.youtube.com/vi/RN3c_3j5m4U/3.jpg">](https://www.youtube.com/watch?v=RN3c_3j5m4U) combining Google Cloud API with a **recurrent convolutional network** for **language identification**. The web app demo can be found on the right.
 
 - Various other personal or hackathon projects that can be found under my repositories.
 
