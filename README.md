@@ -48,7 +48,7 @@
 ####  I currently work on:
 - 🩻 Leveraging large unannotated **medical imaging** datasets through **self-supervised learning**
 - 🫀 Biomarker discovery through heart substructure **segmentation**
-- 🎚️ **[ibro45/lighter](https://github.com/ibro45/lighter)** - YAML-based automated rapid prototyping framework for ML experiments
+- 🎚️ **[project-lighter/lighter](https://github.com/project-lighter/lighter)** - YAML-based automated rapid prototyping framework for ML experiments
 
 #### My previous work:
 - 🌆➡🌃 **GAN image-to-image translation** for adaptive radiotherapy through **CBCT-to-CT translation**. My team and I developed **[ganslate-team/ganslate](https://github.com/ganslate-team/ganslate) framework** to allow us for easier prototyping, extensibility, and experiment tracking of our image-to-image translation projects.
